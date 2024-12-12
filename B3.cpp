@@ -2,6 +2,7 @@
 
 int main(){
 	int n,money;
+	printf("=============================================CHUONG TRINH CHUYEN DOI TIEN TE============================================");
 	printf("1. USD to VND\n2. EUR to VND\n3. GBP to VND\n4. JPY to VND\n5. VND to USD\n6. VND to EUR\n7. VND to GBP\n8. VND to JPY\n");
 	printf("Nhap vao don vi tien te ban muon chuyen doi : ");	scanf("%d",&n);
 	printf("Nhap vao so tien ban muon chuyen doi : ");	scanf("%d",&money);
